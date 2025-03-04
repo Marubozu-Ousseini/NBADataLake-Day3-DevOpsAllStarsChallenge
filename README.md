@@ -109,9 +109,13 @@ WHERE Position = 'PG';
 2. Automating the creation of services with a script.
 3. Integrating external APIs into cloud-based workflows.
 
+![image](https://github.com/user-attachments/assets/5d2d904c-9518-472e-85b4-1ef6d3e7d223)
+
 
 ### **Future Enhancements**
 1. Automate data ingestion with AWS Lambda
 2. Implement a data transformation layer with AWS Glue ETL
 3. Add advanced analytics and visualizations (AWS QuickSight)
+
+![image](https://github.com/user-attachments/assets/783bc7ab-6546-4c1e-890e-35e7b3109d66)
 
